@@ -1,8 +1,11 @@
 # mini_jekyll
 
-An absolute minimalistic Jekyll scaffold.
+An absolutly minimalistic [Jekyll](https://jekyllrb.com/) scaffold.
 
 It can serve to build a clean site from scratch.
+
+It is meant to be used with the [RubyMine](https://www.jetbrains.com/ruby/) 
+IDE from Jetbrains.
 
 ## Installation
 
